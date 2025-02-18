@@ -19,7 +19,7 @@ public class ConcurrencyExample {
 }
 
 
-public class ConcurrencyExample {
+class ConcurrencyExample2{
     private static int counter = 0;
     // 定义一个静态对象作为同步锁
     private static final Object lock = new Object();
